@@ -1,0 +1,5 @@
+python-autocommand source: file-without-copyright-information
+python-autocommand source: no-debian-changes
+python-autocommand source: source-contains-prebuilt-windows-binary
+python-autocommand source: source-is-missing
+python-autocommand source: source-package-encodes-python-version
